@@ -14,9 +14,15 @@ class Task1ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 let name = "ddfdf"
+      
+        cc90()
         // Do any additional setup after loading the view.
     }
     
+    func cc90(){
+        print("fdfd")
+        
+    }
 
     /*
     // MARK: - Navigation
