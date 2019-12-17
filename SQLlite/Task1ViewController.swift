@@ -10,7 +10,6 @@ import UIKit
 
 class Task1ViewController: UIViewController {
 
-    let task1 = Task1ViewController()
     
     override func viewDidLoad() {
         super.viewDidLoad()
