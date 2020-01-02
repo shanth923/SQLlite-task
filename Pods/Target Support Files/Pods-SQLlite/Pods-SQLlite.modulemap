@@ -1,0 +1,6 @@
+framework module Pods_SQLlite {
+  umbrella header "Pods-SQLlite-umbrella.h"
+
+  export *
+  module * { export * }
+}
